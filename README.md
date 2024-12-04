@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there! 👋 I'm David  
 
-<!--
-**Defi241/Defi241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 About Me  
 
-Here are some ideas to get you started:
+- 🎓 **Student at the University of Cantabria (UC)**, pursuing studies in **Computer Engineering (Informatic)**.  
+- 🔒 Passionate about **Cybersecurity**: actively learning through courses and self-study.  
+- 💻 Exploring the intersection of **technology** and **security**, striving to make systems safer and smarter.  
+- 📚 Constantly improving skills in programming, networks, and secure system design.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills and Interests  
+
+- **Programming Languages**: Python, Java, C , (HTML, CSS).  
+- **Cybersecurity**: Ethical hacking basics.   
+
+---
+
+### 🌍 Projects and Contributions  
+
+- 🌐 Working on personal projects related to cybersecurity and software development.  
+- 🔧 Collaborating on open-source projects to learn and grow as a developer.  
+- 🛡️ Building tools and scripts to analyze and improve system security.  
+
+---
+
+### 📫 Get in Touch  
+
+
